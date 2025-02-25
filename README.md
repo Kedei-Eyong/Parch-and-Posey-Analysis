@@ -1,7 +1,8 @@
 
-<img width="167" alt="Capture blu paper" src="https://github.com/user-attachments/assets/096a755f-45d9-4dd2-acc4-9965d8c62c0d" />
-<img width="615" alt="Capture Keddy p   p 1" src="https://github.com/user-attachments/assets/78841cce-2e5c-4a38-9bdf-b2ee867<img width="624" alt="Capture Keddy P   P page 2" src="https://github.com/user-attachments/assets/20465044-d602-4124-a570-2a581972cf10" />
-c2e6e" />
+<img width="167" alt="Capture blu paper" src="https://github.com/user-attachments/assets/d9f0c30e-0b7a-412a-a694-2477dc0e7488" />
+<img width="624" alt="Capture Keddy P   P page 2" src="https://github.com/user-attachments/assets/af7db943-27eb-4aa8-b24e-ab3923294693" />
+<img width="615" alt="Capture Keddy p   p 1" src="https://github.com/user-attachments/assets/1545feeb-f6d7-4ab3-a64e-2822e6aeb26e" />
+
 
 # Parch-and-Posey-Analysis
 This repository provides an analysis of Parch and Posey Firm, revealing key insights in relation to customers, orders, sales regions, sales representatives and web events.
