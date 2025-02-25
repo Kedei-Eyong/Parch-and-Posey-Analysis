@@ -1,5 +1,5 @@
 
-<img width="306" alt="Capture paper" src="https://github.com/user-attachments/assets/739d51f5-ccdd-4ac8-ae59-82a4c186ab14" />
+<img width="400" alt="Capture paper" src="https://github.com/user-attachments/assets/739d51f5-ccdd-4ac8-ae59-82a4c186ab14" />
 
 
 
