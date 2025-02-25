@@ -16,9 +16,7 @@ This analysis provides insights on:
 
 
 
-
-
-
+# Dashboard Preview
 
 <img width="500" alt="Capture Keddy P   P page 2" src="https://github.com/user-attachments/assets/bc7d76c2-3553-41c2-ac5a-61e71d98c0f3" />
 
