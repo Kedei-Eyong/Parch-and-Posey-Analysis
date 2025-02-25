@@ -1,5 +1,5 @@
 
-<img width="167" alt="Capture blu paper" src="https://github.com/user-attachments/assets/d9f0c30e-0b7a-412a-a694-2477dc0e7488" />
+<img width="400" alt="Capture blu paper" src="https://github.com/user-attachments/assets/d9f0c30e-0b7a-412a-a694-2477dc0e7488" />
 
 
 
@@ -16,8 +16,11 @@ This analysis provides insights on:
 
 # Files
 'Parch and Posey Schema File': Dataset used for the analysis
+
 'Keddy P & P Queries': SQL document containing analytical questions and corresponding queries
+
 'Keddy P&P Performance Dashboard': PowerBI Dashboard containing a visual summary of trends
+
 'Parch & Posey Analysis Report': Report summarizing findings of the analysis
 
 # Getting started
