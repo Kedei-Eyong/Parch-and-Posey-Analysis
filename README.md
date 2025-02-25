@@ -14,6 +14,9 @@ This analysis provides insights on:
 4. Sales Representatives - Revenue distribution of sales representatives, number of sales representatives, and top performing representatives.
 5. Web Performance - Order distribution, top channels and frequency of web events.
 
+
+<img width="500" alt="Capture Keddy P   P page 2" src="https://github.com/user-attachments/assets/bc7d76c2-3553-41c2-ac5a-61e71d98c0f3" />
+
 # Files
 'Parch and Posey Schema File': Dataset used for the analysis
 
