@@ -1,5 +1,6 @@
 
-<img width="400" alt="Capture blu paper" src="https://github.com/user-attachments/assets/d9f0c30e-0b7a-412a-a694-2477dc0e7488" />
+<img width="306" alt="Capture paper" src="https://github.com/user-attachments/assets/739d51f5-ccdd-4ac8-ae59-82a4c186ab14" />
+
 
 
 
