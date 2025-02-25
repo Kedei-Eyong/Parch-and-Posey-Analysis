@@ -1,7 +1,6 @@
 
 <img width="167" alt="Capture blu paper" src="https://github.com/user-attachments/assets/d9f0c30e-0b7a-412a-a694-2477dc0e7488" />
-<img width="624" alt="Capture Keddy P   P page 2" src="https://github.com/user-attachments/assets/af7db943-27eb-4aa8-b24e-ab3923294693" />
-<img width="615" alt="Capture Keddy p   p 1" src="https://github.com/user-attachments/assets/1545feeb-f6d7-4ab3-a64e-2822e6aeb26e" />
+
 
 
 # Parch-and-Posey-Analysis
