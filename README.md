@@ -22,13 +22,13 @@ This analysis provides insights on:
 <img width="500" alt="Capture Keddy P   P page 2" src="https://github.com/user-attachments/assets/bc7d76c2-3553-41c2-ac5a-61e71d98c0f3" />
 
 # Files
-'Parch and Posey Schema File': Dataset used for the analysis
+*'Parch and Posey Schema File': Dataset used for the analysis*
 
-'Keddy P & P Queries': SQL document containing analytical questions and corresponding queries
+*'Keddy P & P Queries': SQL document containing analytical questions and corresponding queries*
 
-'Keddy P&P Performance Dashboard': PowerBI Dashboard containing a visual summary of trends
+*'Keddy P&P Performance Dashboard': PowerBI Dashboard containing a visual summary of trends*
 
-'Parch & Posey Analysis Report': Report summarizing findings of the analysis
+*'Parch & Posey Analysis Report': Report summarizing findings of the analysis*
 
 # Getting started
 1. Download the repository
